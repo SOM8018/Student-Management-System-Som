@@ -193,11 +193,6 @@ a:hover{ text-decoration: none; }
               <li><a href="#">Buttons</a></li>
               <li><a href="#">Tabs & Accordions</a></li>
               <li><a href="#">Typography</a></li>
-              <li><a href="#">FontAwesome</a></li>
-              <li><a href="#">Slider</a></li>
-              <li><a href="#">Panels</a></li>
-              <li><a href="#">Widgets</a></li>
-              <li><a href="#">Bootstrap Model</a></li>
             </ul>
           </li>
           <!-- <li> <a href="#"><i class="fa fa-laptop"></i> <span class="nav-label">Grid options</span></a> </li>
@@ -221,7 +216,7 @@ a:hover{ text-decoration: none; }
         </ul>
       </li> -->
       <!-- <li> <a href=""><i class="fa fa-pie-chart"></i> <span class="nav-label">Metrics</span> </a></li> -->
-      <li> <a href="#"><i class="fa fa-files-o"></i> <span class="nav-label">Report Generate</span></a> </li>
+      <li> <a href="#"><i class="fa fa-files-o"></i> <span class="nav-label">Settings</span></a> </li>
       <li> <a href="#"><i class="fa fa-files-o"></i> <span class="nav-label">Logout</span></a> </li>
       <li> <a href="#"><i class="fa fa-files-o"></i> <span class="nav-label"></span></a> </li>
       <li> <a href="#"><i class="fa fa-files-o"></i> <span class="nav-label">Other Pages</span></a> </li>
