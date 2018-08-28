@@ -1,6 +1,6 @@
-<div class="footer">
-  <p>@AUTHOR : Soumyaranjan</p>
-</div>
+    <div class="footer">
+    <p>@AUTHOR : Soumyaranjan</p>
+    </div>
 
 
 </body>
